@@ -15,6 +15,8 @@
   box-shadow: 20px 40px 33px rgba(0, 0, 0, 0.3);
   padding: 2rem;
   background-color: #75b2c5;
+  margin: 0 auto;
+  margin-top: 200px;
 }
 
 .image-container {
@@ -34,4 +36,9 @@
 
 .card p {
   font-size: 3vh;
+}
+.size{
+  width: 100px;
+  height: 90px;
+  border-radius: 10px;
 }
